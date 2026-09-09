@@ -1,0 +1,13 @@
+{
+  "name": "playwright-first-steps",
+  "version": "0.1.0",
+  "description": "Learning Playwright — four tests against a public practice site. A learning log, not a framework.",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
